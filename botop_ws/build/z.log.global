@@ -1,0 +1,15 @@
+** compiled at:     Oct 24 2021 14:02:27
+** execution start: 2022-04-12 18:14:00:373386
+/home/jiayun/git/botop/rai/rai/Core/util.cpp:initCmdLine:604(1) ** cmd line arguments: '/home/jiayun/git/botop_ws/build/botop_ws '
+/home/jiayun/git/botop/rai/rai/Core/util.cpp:initCmdLine:608(1) ** run path: '/home/jiayun/git/botop_ws/build'
+/home/jiayun/git/botop/rai/rai/Core/graph.cpp:initParameters:1356(3) opening config file 'rai.cfg'
+/home/jiayun/git/botop/rai/rai/Core/graph.cpp:initParameters:1363(3)  - failed
+/home/jiayun/git/botop/rai/rai/Core/graph.cpp:initParameters:1369(3) opening base config file '/home/jiayun/git/botop/rai/../local.cfg'
+/home/jiayun/git/botop/rai/rai/Core/graph.cpp:initParameters:1375(3)  - failed
+/home/jiayun/git/botop/rai/rai/Core/graph.cpp:initParameters:1379(1) ** parsed parameters:
+{}
+
+/home/jiayun/git/botop/rai/rai/Core/util.ipp:getParameterBase:35(3)                 seed =     0 [j] (default)
+** execution stop: 2022-04-12 18:14:00:373999
+** real time: 0.000621023sec
+** CPU time: 0.009626

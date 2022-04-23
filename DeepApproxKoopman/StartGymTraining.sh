@@ -1,0 +1,2 @@
+python start_offline.py --batch 500 --epoch 50 --dor 0. --decay 1e-4 --lr 2e-4 --k 100 --lift 50 --state_dim 3 --control_dim 1 --validate_k 200 --implicit 0  --lr_decay 0.99
+#python start_online.py --batch 2 --epoch 80 --dor 0.8 --decay 1e-8 --lr 7e-4 --k 10 --lift 30 --state_dim 3 --control_dim 1 --validate_k 200 --lr_decay 0.99 --maxlen 1000 --simNum 100 --trainNum 0 --updateNum 0 --whichOde gym --whichController LQR --whichModel 1
